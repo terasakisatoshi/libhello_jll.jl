@@ -5,8 +5,8 @@ git-tree-sha1 = "84bda0a4f7aef4cc39db8087755bd65906b05d92"
 os = "macos"
 
     [[libhello.download]]
-    sha256 = "bcd22314514fddd8c5e5d21890ca48a65104dd61defa6a4b4d9b6cd60ee1c970"
-    url = "https://github.com/terasakisatoshi/libhello_jll.jl/releases/download/libhello-v0.1.1+0/libhello.v0.1.1.x86_64-apple-darwin14-cxx11.tar.gz"
+    sha256 = "6e856904b88811b9123f6046980bd3a6528ae3aba46292ebf94871bfa293c8b4"
+    url = "https://github.com/local/releases/download/libhello-v0.1.0+0/libhello.v0.1.0.x86_64-apple-darwin14-cxx11.tar.gz"
 [[libhello]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -15,14 +15,14 @@ libc = "glibc"
 os = "linux"
 
     [[libhello.download]]
-    sha256 = "435f4977cf598afbd18517b9418561272902fd2b6d08b6da3f2dcedffbaa2afc"
-    url = "https://github.com/terasakisatoshi/libhello_jll.jl/releases/download/libhello-v0.1.1+0/libhello.v0.1.1.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "973991e300f6e8d710c8a3182449639e01a183ec06d2ae959a4e79df3bd486ff"
+    url = "https://github.com/local/releases/download/libhello-v0.1.0+0/libhello.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[libhello]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3f1f1615a078e0f34922739a8f7468dedfc0d96a"
+git-tree-sha1 = "37d71ae98061fa38860097ef12d4457b79ef240f"
 os = "windows"
 
     [[libhello.download]]
-    sha256 = "05685092c553cbe676559fb39c1d19ac967800d17381291dbf2b9e1c89dc2ac3"
-    url = "https://github.com/terasakisatoshi/libhello_jll.jl/releases/download/libhello-v0.1.1+0/libhello.v0.1.1.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "ad886f28ed5d166658639a296e7a3f297f05553dfc6416c0d684f110ef3c44f2"
+    url = "https://github.com/local/releases/download/libhello-v0.1.0+0/libhello.v0.1.0.x86_64-w64-mingw32-cxx11.tar.gz"
