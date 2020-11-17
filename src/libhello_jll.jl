@@ -71,7 +71,7 @@ else
         end
         # Force recompilation of that package, just in case it wasn't dev'ed before
         touch(joinpath(Pkg.devdir(), "libhello_jll", "src", "libhello_jll.jl"))
-        @info("libhello_ll dev'ed out to /Users/terasaki/.julia/dev/libhello_jll with pre-populated override directory")
+        @info("libhello_ll dev'ed out to /home/terasaki/.julia/dev/libhello_jll with pre-populated override directory")
     end
 end
 # Load Artifacts.toml file
