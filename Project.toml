@@ -1,6 +1,6 @@
 name = "libhello_jll"
 uuid = "3939d790-347f-5599-b9e1-f2daa7662b6b"
-version = "0.1.2+0"
+version = "0.2.0+0"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
